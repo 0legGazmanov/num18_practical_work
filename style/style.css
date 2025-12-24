@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: monospace;
 }
 
 h1{
@@ -15,4 +15,14 @@ h1{
 }
 p{
     margin-top: 15px;
+}
+
+.gall{
+    width: 300px;
+    height: 600px;
+    background-image: url(https://i.pinimg.com/1200x/96/f7/8f/96f78f9af9cfca89c3b4634b9bb6ae61.jpg);
+    background-size: cover;
+    border: 2px dotted #bbb;
+    margin: 15px;
+    display: inline-block;
 }
